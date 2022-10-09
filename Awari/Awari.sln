@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Awari", "Awari\Awari.csproj", "{6CA43C0D-7023-4246-9E8D-EAC7E3D2CF40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA43C0D-7023-4246-9E8D-EAC7E3D2CF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA43C0D-7023-4246-9E8D-EAC7E3D2CF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA43C0D-7023-4246-9E8D-EAC7E3D2CF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA43C0D-7023-4246-9E8D-EAC7E3D2CF40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E70C8D5-C3A0-4E60-B138-F2067D5734BF}
+	EndGlobalSection
+EndGlobal
