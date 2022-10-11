@@ -15,10 +15,10 @@ namespace Awari
         static void Main(string[] args)
         {
             AwariGame game = new AwariGame();
-            game.drawGameplay();
-            while (true)
+            while (!game.gameIsEnded)
             {
                 game.askUserMove();
+                game.askComputerMove();
             }
 
             Console.ReadKey();
